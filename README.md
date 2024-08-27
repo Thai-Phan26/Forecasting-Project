@@ -5,7 +5,7 @@ This is a Forecasting Project for my Master of Analytics program at RMIT. This r
 
 The second part of the report analyses the correlation between the quarterly Residential Property Price Index (PPI) in Melbourne and quarterly population change over the previous quarter in Victoria between September 2003 and December 2016. The data will be explored and investigated to demonstrate whether the correlation between these two series is spurious or not.
 
-Models utilised:
+**Models utilised**:
 - Finite distributed lag model
 - Polynomial distributed lag model
 - Koyck model
